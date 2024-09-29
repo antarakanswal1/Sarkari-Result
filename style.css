@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    width: 100%;
+    background-color:rgb(163, 18, 42);
+    line-height: 45px;
+    height: 150px;
+    padding-top: 20px;
+    display: flex;
+    padding-bottom: 40px;
+}
+
+.head1{
+    width: 50%;
+    padding-left: 30px;
+}
+
+.head2{
+    width:50%;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    width:100%;
+}
+.nav1,.nav2,.nav3,.nav4,.nav5,.nav6,.nav7,.nav8{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin-right: 1px;
+    margin-left: 1px;
+    width:12.5%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.nav1 a,.nav2 a,.nav3 a,.nav4 a,.nav5 a,.nav6 a,.nav7 a,.nav8 a{
+    text-decoration: none;
+    color: white;
+}
+
+.pre1 p{
+    color: black;
+    font-size: 25px;
+    margin-left: 120px;
+    margin-top: 25px;
+}
+
+.pre1 p a{
+    color: blue;
+    text-decoration: underline dotted blue;
+}
+
+.pre2 p{
+    margin-left:450px;
+    margin-top: 15px;
+}
+.pre3{
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+.title{
+    display:flex;
+    width: 100%;
+    margin: 10px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.title1,.title2,.title3{
+    width: 33.3%;
+    margin: 25px;
+    line-height: 40px;
+}
+
+ #hyper1,#hyper2,#hyper3,#hyper4,#hyper5,#hyper6,#hyper7,#hyper8{
+  margin-left: 25px;
+}
+
+.title1 ul li a{
+    font-size: 20px;
+    color: rgb(17, 17, 253);
+}
+
+.title2 ul li a{
+    font-size: 20px;
+    color: rgb(17, 17, 253);
+}
+
+.title3 ul li a{
+    font-size: 20px;
+    color: rgb(17, 17, 253);
+}
+
+.tit1,.tit2,.tit3,.tit4,.tit5,.tit6,.tit7,.tit8{
+    border: 2px solid rgb(136, 26, 26);
+    margin-top: 20px;
+}
+
+.pre7{
+    padding-top: 200px;
+}
+
+.pre8{
+    width: 100%;
+    display: flex;
+}
+
+.titl2,.titl3,.titl4{
+    width:25%;
+    margin-left: 2px;
+    margin-right: 2px; 
+    margin-bottom: 2px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.titl1{
+    width:25%;
+    margin-right: 2px; 
+    margin-bottom: 2px;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.pre9{
+    padding-top: 100px;
+    width: 100%;
+    padding-top: 40px;
+    display: flex;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding-bottom: 40px;
+}
+
+.pre10{
+    width: 20%;
+    padding-left: 50px;
+}
+
+.pre11{
+    width: 20%;
+}
+
+.pre12{
+    width: 20%;
+}
+
+.pre13{
+    width:20%;
+    padding-top: 20px;
+}
+
+.pre14{
+    width: 10%;
+    padding-top: 20px;
+}
+
+.pre10 ul li a,.pre11 ul li a,.pre12 ul li a,.pre13 ul li a,.pre14 ul li a{
+    text-decoration: none;
+    color:grey;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 4px;
+}
+
+.pre10 ul li,.pre11 ul li,.pre12 ul li,.pre13 ul li,.pre14 ul li{
+    list-style: none;
+}
